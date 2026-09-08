@@ -82,25 +82,19 @@ Live Demo:
 
 [Add your Streamlit URL here]
 
-## Project Structure
-
-```text
+پ## Project Structur
 QuickSales-AI/
-?
-??? app.py
-??? analyzer.py
-??? customer_analysis.py
-??? product_analysis.py
-??? monthly_analysis.py
-??? business_insights.py
-??? sales_charts.py
-??? requirements.txt
-??? README.md
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── sample_sales.csv
+
 Author
 Data Analyst & AI Developer
 Specialized in:
-�	Data Analysis
-�	Business Intelligence
-�	Python
-�	Machine Learning
-�	Data Visualization
+•	Data Analysis
+•	Business Intelligence
+•	Python
+•	Machine Learning
+•	Data Visualization
