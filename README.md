@@ -19,6 +19,7 @@ QuickSales AI helps businesses understand:
 ## Key Features
 
 ### Sales Performance
+
 - Total Revenue
 - Total Orders
 - Total Customers
@@ -26,24 +27,28 @@ QuickSales AI helps businesses understand:
 - Average Order Value
 
 ### Product Intelligence
+
 - Best-selling products
 - Product revenue
 - Product performance
 - Category performance
 
 ### Customer Intelligence
+
 - VIP Customers
 - Regular Customers
 - New Customers
 - Lost Customers
 
 ### Sales Trends
+
 - Monthly revenue
 - Monthly growth
 - Best-performing months
 - Sales declines
 
 ### Business Insights
+
 QuickSales AI converts analytical results into practical business recommendations.
 
 ## Input
@@ -53,7 +58,9 @@ The application accepts:
 - CSV
 - Excel (.xlsx)
 
-Required columns:
+### Required Columns
+
+The uploaded file should contain the following columns:
 
 - Date
 - Order_ID
@@ -74,27 +81,20 @@ Required columns:
 
 ## Business Value
 
-Instead of manually analyzing large spreadsheets, businesses can upload their sales data and quickly discover important trends, customer segments and product opportunities.
+Instead of manually analyzing large spreadsheets, businesses can upload their sales data and quickly discover important trends, customer segments, product opportunities, and actionable business insights.
 
 ## Demo
 
-Live Demo:
+### Live Demo
 
-[Add your Streamlit URL here]
+Coming soon.
 
 ## Project Structure
+
+```text
 QuickSales-AI/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
 └── sample_sales.csv
-
-Author
-Data Analyst & AI Developer
-Specialized in:
-•	Data Analysis
-•	Business Intelligence
-•	Python
-•	Machine Learning
-•	Data Visualization
