@@ -82,7 +82,7 @@ Live Demo:
 
 [Add your Streamlit URL here]
 
-پ## Project Structur
+## Project Structure
 QuickSales-AI/
 │
 ├── app.py
