@@ -98,3 +98,48 @@ QuickSales-AI/
 ├── requirements.txt
 ├── README.md
 └── sample_sales.csv
+## How to Run Locally
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+Run the application:
+streamlit run app.py
+The dashboard will open in your browser.
+
+Business Use Cases
+
+QuickSales AI can help businesses with:
+
+Sales performance monitoring
+Product performance analysis
+Customer segmentation
+Revenue trend analysis
+Identification of inactive customers
+Identification of high-value customers
+Business decision-making
+Future Development
+
+Planned improvements may include:
+
+Advanced customer analytics
+Automated PDF reports
+Advanced sales forecasting
+AI-powered business recommendations
+Additional business intelligence dashboards
+Author
+
+DataNovaAI Team
+
+Specialized in:
+
+Data Analysis
+Business Intelligence
+Python
+Machine Learning
+Data Visualization
+AI Solutions
+License
+
+This project is intended for demonstration and business analytics purposes.
