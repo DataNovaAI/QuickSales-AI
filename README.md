@@ -1,4 +1,4 @@
-# QuickSales AI
+ # QuickSales AI
 
 ## Sales Intelligence Dashboard
 
@@ -8,44 +8,44 @@ QuickSales AI is a business intelligence tool that transforms raw sales data fro
 
 QuickSales AI helps businesses understand:
 
-- How much revenue they generate
-- Which products perform best
-- Which categories generate the most revenue
-- How sales change over time
-- Which customers are most valuable
-- Which customers may have become inactive
-- Where potential business opportunities exist
+* How much revenue they generate
+* Which products perform best
+* Which categories generate the most revenue
+* How sales change over time
+* Which customers are most valuable
+* Which customers may have become inactive
+* Where potential business opportunities exist
 
 ## Key Features
 
 ### Sales Performance
 
-- Total Revenue
-- Total Orders
-- Total Customers
-- Total Units Sold
-- Average Order Value
+* Total Revenue
+* Total Orders
+* Total Customers
+* Total Units Sold
+* Average Order Value
 
 ### Product Intelligence
 
-- Best-selling products
-- Product revenue
-- Product performance
-- Category performance
+* Best-selling products
+* Product revenue
+* Product performance
+* Category performance
 
 ### Customer Intelligence
 
-- VIP Customers
-- Regular Customers
-- New Customers
-- Lost Customers
+* VIP Customers
+* Regular Customers
+* New Customers
+* Lost Customers
 
 ### Sales Trends
 
-- Monthly revenue
-- Monthly growth
-- Best-performing months
-- Sales declines
+* Monthly revenue
+* Monthly growth
+* Best-performing months
+* Sales declines
 
 ### Business Insights
 
@@ -55,29 +55,29 @@ QuickSales AI converts analytical results into practical business recommendation
 
 The application accepts:
 
-- CSV
-- Excel (.xlsx)
+* CSV
+* Excel (.xlsx)
 
 ### Required Columns
 
 The uploaded file should contain the following columns:
 
-- Date
-- Order_ID
-- Customer
-- Product
-- Category
-- Quantity
-- Total
+* Date
+* Order_ID
+* Customer
+* Product
+* Category
+* Quantity
+* Total
 
 ## Technology
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Streamlit
-- Excel / CSV Data Analysis
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Streamlit
+* Excel / CSV Data Analysis
 
 ## Business Value
 
@@ -98,48 +98,59 @@ QuickSales-AI/
 ├── requirements.txt
 ├── README.md
 └── sample_sales.csv
+```
+
 ## How to Run Locally
 
 Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
 Run the application:
+
+```bash
 streamlit run app.py
+```
+
 The dashboard will open in your browser.
 
-Business Use Cases
+## Business Use Cases
 
 QuickSales AI can help businesses with:
 
-Sales performance monitoring
-Product performance analysis
-Customer segmentation
-Revenue trend analysis
-Identification of inactive customers
-Identification of high-value customers
-Business decision-making
-Future Development
+* Sales performance monitoring
+* Product performance analysis
+* Customer segmentation
+* Revenue trend analysis
+* Identification of inactive customers
+* Identification of high-value customers
+* Business decision-making
+
+## Future Development
 
 Planned improvements may include:
 
-Advanced customer analytics
-Automated PDF reports
-Advanced sales forecasting
-AI-powered business recommendations
-Additional business intelligence dashboards
-Author
+* Advanced customer analytics
+* Automated PDF reports
+* Advanced sales forecasting
+* AI-powered business recommendations
+* Additional business intelligence dashboards
 
-DataNovaAI Team
+## Author
+
+**DataNovaAI Team**
 
 Specialized in:
 
-Data Analysis
-Business Intelligence
-Python
-Machine Learning
-Data Visualization
-AI Solutions
-License
+* Data Analysis
+* Business Intelligence
+* Python
+* Machine Learning
+* Data Visualization
+* AI Solutions
+
+## License
 
 This project is intended for demonstration and business analytics purposes.
