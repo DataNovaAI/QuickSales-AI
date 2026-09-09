@@ -115,7 +115,7 @@ Specialized in:
 * Python
 * Machine Learning
 * Data Visualization
-* AI Solutions"""
+* AI Solutions
 
 ## License
 
