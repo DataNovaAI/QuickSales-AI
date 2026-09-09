@@ -101,7 +101,7 @@ Instead of manually analyzing large spreadsheets, businesses can upload their sa
 Coming soon.
 
 ## Project Structure
-
+```text
 QuickSales-AI/
 │
 ├── app.py
