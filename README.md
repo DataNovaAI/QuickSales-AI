@@ -1,156 +1,196 @@
- # QuickSales AI
+QuickSales AI
 
-## Sales Intelligence Dashboard
+Sales Intelligence Dashboard
 
 QuickSales AI is a business intelligence tool that transforms raw sales data from Excel or CSV files into clear, actionable business insights.
 
-## What Does It Do?
+What Does It Do?
 
 QuickSales AI helps businesses understand:
 
-* How much revenue they generate
-* Which products perform best
-* Which categories generate the most revenue
-* How sales change over time
-* Which customers are most valuable
-* Which customers may have become inactive
-* Where potential business opportunities exist
+How much revenue they generate
 
-## Key Features
+Which products perform best
 
-### Sales Performance
+Which categories generate the most revenue
 
-* Total Revenue
-* Total Orders
-* Total Customers
-* Total Units Sold
-* Average Order Value
+How sales change over time
 
-### Product Intelligence
+Which customers are most valuable
 
-* Best-selling products
-* Product revenue
-* Product performance
-* Category performance
+Which customers may have become inactive
 
-### Customer Intelligence
+Where potential business opportunities exist
 
-* VIP Customers
-* Regular Customers
-* New Customers
-* Lost Customers
+Key Features
 
-### Sales Trends
+Sales Performance
 
-* Monthly revenue
-* Monthly growth
-* Best-performing months
-* Sales declines
+Total Revenue
 
-### Business Insights
+Total Orders
+
+Total Customers
+
+Total Units Sold
+
+Average Order Value
+
+Product Intelligence
+
+Best-selling products
+
+Product revenue
+
+Product performance
+
+Category performance
+
+Customer Intelligence
+
+VIP Customers
+
+Regular Customers
+
+New Customers
+
+Lost Customers
+
+Sales Trends
+
+Monthly revenue
+
+Monthly growth
+
+Best-performing months
+
+Sales declines
+
+Business Insights
 
 QuickSales AI converts analytical results into practical business recommendations.
 
-## Input
+Input
 
 The application accepts:
 
-* CSV
-* Excel (.xlsx)
+CSV
 
-### Required Columns
+Excel (.xlsx)
+
+Required Columns
 
 The uploaded file should contain the following columns:
 
-* Date
-* Order_ID
-* Customer
-* Product
-* Category
-* Quantity
-* Total
+Date
 
-## Technology
+Order_ID
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Streamlit
-* Excel / CSV Data Analysis
+Customer
 
-## Business Value
+Product
+
+Category
+
+Quantity
+
+Total
+
+Technology
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Streamlit
+
+Excel / CSV Data Analysis
+
+Business Value
 
 Instead of manually analyzing large spreadsheets, businesses can upload their sales data and quickly discover important trends, customer segments, product opportunities, and actionable business insights.
 
-## Demo
+Demo
 
-### Live Demo
+Live Demo
 
 Coming soon.
 
-## Project Structure
+Project Structure
 
-```text
 QuickSales-AI/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
 └── sample_sales.csv
-```
 
-## How to Run Locally
+How to Run Locally
 
 Install the required dependencies:
 
-```bash
 pip install -r requirements.txt
-```
 
 Run the application:
 
-```bash
 streamlit run app.py
-```
 
 The dashboard will open in your browser.
 
-## Business Use Cases
+Business Use Cases
 
 QuickSales AI can help businesses with:
 
-* Sales performance monitoring
-* Product performance analysis
-* Customer segmentation
-* Revenue trend analysis
-* Identification of inactive customers
-* Identification of high-value customers
-* Business decision-making
+Sales performance monitoring
 
-## Future Development
+Product performance analysis
+
+Customer segmentation
+
+Revenue trend analysis
+
+Identification of inactive customers
+
+Identification of high-value customers
+
+Business decision-making
+
+Future Development
 
 Planned improvements may include:
 
-* Advanced customer analytics
-* Automated PDF reports
-* Advanced sales forecasting
-* AI-powered business recommendations
-* Additional business intelligence dashboards
+Advanced customer analytics
 
-## Author
+Automated PDF reports
 
-**DataNovaAI Team**
+Advanced sales forecasting
+
+AI-powered business recommendations
+
+Additional business intelligence dashboards
+
+Author
+
+DataNovaAI Team
 
 Specialized in:
 
-* Data Analysis
-* Business Intelligence
-* Python
-* Machine Learning
-* Data Visualization
-* AI Solutions
+Data Analysis
 
-## License
+Business Intelligence
+
+Python
+
+Machine Learning
+
+Data Visualization
+
+AI Solutions
+
+License
 
 This project is intended for demonstration and business analytics purposes.
