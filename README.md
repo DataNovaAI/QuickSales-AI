@@ -116,13 +116,12 @@ QuickSales-AI/
 
 
 
-## How to Run Locally
+How to Run Locally
 
 Install the required dependencies:
 
-```bash
 pip install -r requirements.txt
-```
+
 
 Run the application:
 
