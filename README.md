@@ -117,15 +117,6 @@ Specialized in:
 * Data Visualization
 * AI Solutions"""
 
-with open('/mnt/data/README.md','w',encoding='utf-8') as f:
-    f.write(content)
-raw = open('/mnt/data/README.md','rb').read()
-txt = raw.decode('utf-8')
-print('BOM:', raw[:3] == b'\xef\xbb\xbf')
-print('starts:', txt.startswith('# QuickSales AI'))
-print('bash fences:', txt.count('```bash'))
-print('text fences:', txt.count('```text'))
-print('bytes:', len(raw))
-print('ends with Author section:', txt.rstrip().endswith('* AI Solutions'))
-print('Business decision-making:', 'Business decision-making' in txt)
-print('Future Development:', '## Future Development' in txt)
+## License
+
+This project is intended for demonstration and business analytics purposes.
