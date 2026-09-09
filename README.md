@@ -113,7 +113,7 @@ QuickSales-AI/
 ├── QuickSales_AI_Dashboard.png
 ├── QuickSales_AI_Customer_Segmentation.png
 └── QuickSales_AI_Business_Insights.png
-...
+```text
 
 ## How to Run Locally
 
