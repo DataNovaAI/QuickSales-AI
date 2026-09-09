@@ -101,6 +101,7 @@ Instead of manually analyzing large spreadsheets, businesses can upload their sa
 Coming soon.
 
 ## Project Structure
+
 ```text
 QuickSales-AI/
 │
@@ -112,6 +113,7 @@ QuickSales-AI/
 ├── QuickSales_AI_Dashboard.png
 ├── QuickSales_AI_Customer_Segmentation.png
 └── QuickSales_AI_Business_Insights.png
+
 
 
 ## How to Run Locally
