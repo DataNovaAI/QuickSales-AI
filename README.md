@@ -1,4 +1,4 @@
-content = '''# QuickSales AI
+content = """# QuickSales AI
 
 ## Dashboard Preview
 
@@ -92,7 +92,31 @@ QuickSales AI can help businesses with:
 * Revenue trend analysis
 * Identification of inactive customers
 * Identification of high-value customers
-'''
+* Business decision-making
+
+## Future Development
+
+Planned improvements may include:
+
+* Advanced customer analytics
+* Automated PDF reports
+* Advanced sales forecasting
+* AI-powered business recommendations
+* Additional business intelligence dashboards
+
+## Author
+
+**DataNovaAI Team**
+
+Specialized in:
+
+* Data Analysis
+* Business Intelligence
+* Python
+* Machine Learning
+* Data Visualization
+* AI Solutions"""
+
 with open('/mnt/data/README.md','w',encoding='utf-8') as f:
     f.write(content)
 raw = open('/mnt/data/README.md','rb').read()
@@ -102,3 +126,6 @@ print('starts:', txt.startswith('# QuickSales AI'))
 print('bash fences:', txt.count('```bash'))
 print('text fences:', txt.count('```text'))
 print('bytes:', len(raw))
+print('ends with Author section:', txt.rstrip().endswith('* AI Solutions'))
+print('Business decision-making:', 'Business decision-making' in txt)
+print('Future Development:', '## Future Development' in txt)
