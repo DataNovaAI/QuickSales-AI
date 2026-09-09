@@ -6,8 +6,6 @@
 ![QuickSales AI Dashboard](QuickSales_AI_Dashboard.png)
 
 QuickSales AI is a business intelligence tool that transforms raw sales data from Excel or CSV files into clear, actionable business insights.
-## Dashboard Preview
-![QuickSales AI Dashboard](QuickSales_AI_Dashboard.png)
 
 ## Customer Segmentation
 
@@ -115,6 +113,7 @@ QuickSales-AI/
 ├── QuickSales_AI_Dashboard.png
 ├── QuickSales_AI_Customer_Segmentation.png
 └── QuickSales_AI_Business_Insights.png
+...
 
 ## How to Run Locally
 
